@@ -96,7 +96,6 @@
       <br/>
       <sub>Tags: EdTech, E-learning, Interactive Platform</sub>
     </td>
-
     <td align="center" width="33%">
       <a href="https://qubsurf.vercel.app/">
         <img src="./assets/projects/qubsurf.png"
