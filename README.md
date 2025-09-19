@@ -105,7 +105,7 @@
   <tr>
     <td align="center" width="33%">
       <a href="#">
-        <img src="./assets/projects/knightsbridgeoasis-project.jpg"
+        <img src="./assets/projects/knightsbridgeoasis-project.png"
              alt="Knightsbridge Oasis Project"
              style="width:100%; height:160px; object-fit:cover;"/>
       </a>
@@ -118,7 +118,7 @@
     </td>
     <td align="center" width="33%">
       <a href="#">
-        <img src="./assets/projects/rakcompanyltd-project.jpg"
+        <img src="./assets/projects/rakcompanyltd-project.png"
              alt="RAK Company Ltd Project"
              style="width:100%; height:160px; object-fit:cover;"/>
       </a>
