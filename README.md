@@ -25,40 +25,40 @@
 ### **Core Technologies**
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"" style="border-radius: 50%; border: 2px solid rgba(0,0,0,0.1); padding: 4px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript"" style="border-radius: 50%; border: 2px solid rgba(0,0,0,0.1); padding: 4px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React"" style="border-radius: 50%; border: 2px solid rgba(0,0,0,0.1); padding: 4px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js"" style="border-radius: 50%; border: 2px solid rgba(0,0,0,0.1); padding: 4px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js"" style="border-radius: 50%; border: 2px solid rgba(0,0,0,0.1); padding: 4px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP"" style="border-radius: 50%; border: 2px solid rgba(0,0,0,0.1); padding: 4px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"" style="border-radius: 50%; border: 2px solid rgba(0,0,0,0.1); padding: 4px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="border:2px solid #999; border-radius:100%;" onload="this.style.borderColor = window.matchMedia('(prefers-color-scheme: dark)').matches ? '#ccc' : '#999';">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="border:2px solid #999; border-radius:100%;" onload="this.style.borderColor = window.matchMedia('(prefers-color-scheme: dark)').matches ? '#ccc' : '#999';">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="border:2px solid #999; border-radius:100%;" onload="this.style.borderColor = window.matchMedia('(prefers-color-scheme: dark)').matches ? '#ccc' : '#999';">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40" style="border:2px solid #999; border-radius:100%;" onload="this.style.borderColor = window.matchMedia('(prefers-color-scheme: dark)').matches ? '#ccc' : '#999';">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="border:2px solid #999; border-radius:100%;" onload="this.style.borderColor = window.matchMedia('(prefers-color-scheme: dark)').matches ? '#ccc' : '#999';">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" style="border:2px solid #999; border-radius:100%;" onload="this.style.borderColor = window.matchMedia('(prefers-color-scheme: dark)').matches ? '#ccc' : '#999';">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="border:2px solid #999; border-radius:100%;" onload="this.style.borderColor = window.matchMedia('(prefers-color-scheme: dark)').matches ? '#ccc' : '#999';">
 </div>
 
 ### **Cloud & DevOps**
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"" style="border-radius: 50%; border: 2px solid rgba(0,0,0,0.1); padding: 4px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker"" style="border-radius: 50%; border: 2px solid rgba(0,0,0,0.1); padding: 4px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes"" style="border-radius: 50%; border: 2px solid rgba(0,0,0,0.1); padding: 4px;">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP"" style="border-radius: 50%; border: 2px solid rgba(0,0,0,0.1); padding: 4px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" style="border:2px solid #999; border-radius:100%;" onload="this.style.borderColor = window.matchMedia('(prefers-color-scheme: dark)').matches ? '#ccc' : '#999';">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" style="border:2px solid #999; border-radius:100%;" onload="this.style.borderColor = window.matchMedia('(prefers-color-scheme: dark)').matches ? '#ccc' : '#999';">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" style="border:2px solid #999; border-radius:100%;" onload="this.style.borderColor = window.matchMedia('(prefers-color-scheme: dark)').matches ? '#ccc' : '#999';">
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40" style="border:2px solid #999; border-radius:100%;" onload="this.style.borderColor = window.matchMedia('(prefers-color-scheme: dark)').matches ? '#ccc' : '#999';">
 </div>
 
 ### **Databases & Infrastructure**
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"" style="border-radius: 50%; border: 2px solid rgba(0,0,0,0.1); padding: 4px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL"" style="border-radius: 50%; border: 2px solid rgba(0,0,0,0.1); padding: 4px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"" style="border-radius: 50%; border: 2px solid rgba(0,0,0,0.1); padding: 4px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis"" style="border-radius: 50%; border: 2px solid rgba(0,0,0,0.1); padding: 4px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="border:2px solid #999; border-radius:100%;" onload="this.style.borderColor = window.matchMedia('(prefers-color-scheme: dark)').matches ? '#ccc' : '#999';">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="border:2px solid #999; border-radius:100%;" onload="this.style.borderColor = window.matchMedia('(prefers-color-scheme: dark)').matches ? '#ccc' : '#999';">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="border:2px solid #999; border-radius:100%;" onload="this.style.borderColor = window.matchMedia('(prefers-color-scheme: dark)').matches ? '#ccc' : '#999';">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" style="border:2px solid #999; border-radius:100%;" onload="this.style.borderColor = window.matchMedia('(prefers-color-scheme: dark)').matches ? '#ccc' : '#999';">
 </div>
 
 ### **Mobile & Emerging Tech**
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Native"" style="border-radius: 50%; border: 2px solid rgba(0,0,0,0.1); padding: 4px;">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter"" style="border-radius: 50%; border: 2px solid rgba(0,0,0,0.1); padding: 4px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"" style="border-radius: 50%; border: 2px solid rgba(0,0,0,0.1); padding: 4px;">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"" style="border-radius: 50%; border: 2px solid rgba(0,0,0,0.1); padding: 4px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Native" width="40" height="40" style="border:2px solid #999; border-radius:100%;" onload="this.style.borderColor = window.matchMedia('(prefers-color-scheme: dark)').matches ? '#ccc' : '#999';">
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" style="border:2px solid #999; border-radius:100%;" onload="this.style.borderColor = window.matchMedia('(prefers-color-scheme: dark)').matches ? '#ccc' : '#999';">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="border:2px solid #999; border-radius:100%;" onload="this.style.borderColor = window.matchMedia('(prefers-color-scheme: dark)').matches ? '#ccc' : '#999';">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="border:2px solid #999; border-radius:100%;" onload="this.style.borderColor = window.matchMedia('(prefers-color-scheme: dark)').matches ? '#ccc' : '#999';">
 </div>
 
 ---
