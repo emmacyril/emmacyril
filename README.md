@@ -1,8 +1,7 @@
+![Cyril Emmanuel - Senior Full Stack Engineer & Technical Leader](/assets/banner.svg)
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Full Stack" width="80" height="80">
-  <h1>Cyril Emmanuel</h1>
-  <h3>Senior Full Stack Engineer & Technical Leader</h3>
-  <p>🚀 Transforming businesses through scalable architecture, innovative solutions, and strategic technical leadership</p>
+  <h3>🚀 Transforming businesses through scalable architecture, innovative solutions, and strategic technical leadership</h3>
 </div>
 
 ---
