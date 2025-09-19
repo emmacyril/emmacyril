@@ -96,6 +96,7 @@
       <br/>
       <sub>Tags: EdTech, E-learning, Interactive Platform</sub>
     </td>
+
     <td align="center" width="33%">
       <a href="https://qubsurf.vercel.app/">
         <img src="./assets/projects/qubsurf.png"
@@ -190,19 +191,6 @@
       🔗 <a href="https://meta-verse-challenge.vercel.app">Live Demo</a>
       <br/>
       <sub>Tags: Blockchain, Web3, Security, Chat</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://car-rent-seven.vercel.app">
-        <img src="./assets/projects/car-rent-project.jpeg"
-             alt="Car Rental Application"
-             style="width:100%; height:160px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>Car Rental Application</b><br/>
-      <sub>User-friendly car rental platform with React.js, Redux, and modern web technologies for seamless booking experience.</sub><br/>
-      🔗 <a href="https://car-rent-seven.vercel.app">Live Demo</a>
-      <br/>
-      <sub>Tags: React.js, Redux, Web Application</sub>
     </td>
   </tr>
   <tr>
@@ -367,6 +355,21 @@
       🔗 <a href="https://beta.cepay.me">Live Demo</a>
       <br/>
       <sub>Tags: Fintech, Blockchain, React Native</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://car-rent-seven.vercel.app">
+        <img src="./assets/projects/car-rent-project.jpeg"
+             alt="Car Rental Application"
+             style="width:100%; height:160px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Car Rental Application</b><br/>
+      <sub>User-friendly car rental platform with React.js, Redux, and modern web technologies for seamless booking experience.</sub><br/>
+      🔗 <a href="https://car-rent-seven.vercel.app">Live Demo</a>
+      <br/>
+      <sub>Tags: React.js, Redux, Web Application</sub>
     </td>
   </tr>
 </table>
