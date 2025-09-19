@@ -16,7 +16,7 @@
 - ⚡ **60% reduction** in deployment time with CI/CD implementation
 - 💰 **150% increase** in online sales through e-commerce platform optimization
 - 🛡️ **75% fraud reduction** with blockchain-based supply chain solutions
-- 👥 **Led 15+ developers**, boosting team productivity by **30%**
+- 👥 **Led and mentored a team of developers**, boosting team productivity by **30%**
 
 ---
 
@@ -60,41 +60,228 @@
 
 ## 🚀 Featured Projects
 
-### **CEPAY - Fintech Mobile Application**
-
-_Revolutionary digital currency exchange platform_
-
-**Achievements:**
-
-- **Built with React Native** for cross-platform compatibility
-- **Integrated blockchain technology** for secure transactions
-- **Real-time WebSocket communication** for instant updates
-- **Multi-currency support** with live exchange rates
-- **KYC/BVN verification** for regulatory compliance
-
-### **Smoothube - Video Streaming Platform**
-
-_Modern YouTube-inspired streaming solution_
-
-**Achievements:**
-
-- **Next.js & React** for server-side rendering and SEO
-- **Real-time video processing** with ffmpeg integration
-- **WebRTC implementation** for live streaming capabilities
-- **Redux state management** for complex user interactions
-- **Responsive design** with Tailwind CSS
-
-### **Cloudax - Web3 Ecosystem Platform**
-
-_Decentralized finance and blockchain platform_
-
-**Achievements:**
-
-- **Blockchain integration** for transparent transactions
-- **Smart contract development** for automated processes
-- **DeFi protocols** for lending and borrowing
-- **NFT marketplace** functionality
-- **Cross-chain compatibility** solutions
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="#">
+        <img src="./assets/projects/koletmoni-project.jpg"
+             alt="Koletmoni Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Koletmoni</b><br/>
+      <sub>A comprehensive digital platform designed to streamline operations and enhance user experience through innovative technology solutions.</sub><br/>
+      🔗 <a href="#">Project</a>
+      <br/>
+      <sub>Tags: Web Development, Digital Solutions</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="#">
+        <img src="./assets/projects/instant-learn-project.png"
+             alt="InstantLearn Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>InstantLearn</b><br/>
+      <sub>An educational platform revolutionizing learning with instant access to courses and interactive content for modern students.</sub><br/>
+      🔗 <a href="#">Project</a>
+      <br/>
+      <sub>Tags: EdTech, E-learning, Interactive Platform</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://jobhunteer.vercel.app">
+        <img src="./assets/projects/junteer-project.png"
+             alt="JobHunter Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>JobHunter</b><br/>
+      <sub>AI-powered career development platform helping job seekers optimize resumes and find opportunities with intelligent matching.</sub><br/>
+      🔗 <a href="https://jobhunteer.vercel.app">Live Demo</a>
+      <br/>
+      <sub>Tags: AI, Career Development, ATS</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="#">
+        <img src="./assets/projects/knightsbridgeoasis-project.jpg"
+             alt="Knightsbridge Oasis Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Knightsbridge Oasis</b><br/>
+      <sub>A premium digital platform offering luxury services and experiences with elegant design and seamless user interface.</sub><br/>
+      🔗 <a href="#">Project</a>
+      <br/>
+      <sub>Tags: Luxury Services, Web Application</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="#">
+        <img src="./assets/projects/rakcompanyltd-project.jpg"
+             alt="RAK Company Ltd Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>RAK Company Ltd</b><br/>
+      <sub>Corporate website showcasing business solutions with professional design and comprehensive service offerings.</sub><br/>
+      🔗 <a href="#">Project</a>
+      <br/>
+      <sub>Tags: Corporate, Business Solutions</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://admin.afripact.com">
+        <img src="./assets/projects/afripact-project.png"
+             alt="Afripact Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Afripact</b><br/>
+      <sub>Revolutionizing education with data-driven insights and streamlined case management for educational institutions.</sub><br/>
+      🔗 <a href="https://admin.afripact.com">Live Demo</a>
+      <br/>
+      <sub>Tags: Education, Data Analytics, Management</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://airbnbclone-lime-two.vercel.app">
+        <img src="./assets/projects/airbnb-clone-project.jpeg"
+             alt="Airbnb Clone Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Airbnb Clone</b><br/>
+      <sub>A complete frontend clone of Airbnb built with Next.js, featuring modern design and responsive user interface.</sub><br/>
+      🔗 <a href="https://airbnbclone-lime-two.vercel.app">Live Demo</a>
+      <br/>
+      <sub>Tags: Next.js, Clone, Responsive Design</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://meta-verse-challenge.vercel.app">
+        <img src="./assets/projects/blockchain-chat-project.jpeg"
+             alt="MangoChat - Blockchain Chat App"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>MangoChat - Blockchain Chat</b><br/>
+      <sub>Secure blockchain-based messaging platform ensuring transparent and tamper-proof communication with modern UI/UX.</sub><br/>
+      🔗 <a href="https://meta-verse-challenge.vercel.app">Live Demo</a>
+      <br/>
+      <sub>Tags: Blockchain, Web3, Security, Chat</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://car-rent-seven.vercel.app">
+        <img src="./assets/projects/car-rent-project.jpeg"
+             alt="Car Rental Application"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Car Rental Application</b><br/>
+      <sub>User-friendly car rental platform with React.js, Redux, and modern web technologies for seamless booking experience.</sub><br/>
+      🔗 <a href="https://car-rent-seven.vercel.app">Live Demo</a>
+      <br/>
+      <sub>Tags: React.js, Redux, Web Application</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://smoothube.vercel.app">
+        <img src="./assets/projects/smootube-project.jpeg"
+             alt="Smoothube - Video Streaming Platform"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Smoothube - Video Streaming</b><br/>
+      <sub>Modern YouTube-inspired platform with Next.js, React, and Tailwind CSS featuring adaptive streaming and real-time communication.</sub><br/>
+      🔗 <a href="https://smoothube.vercel.app">Live Demo</a>
+      <br/>
+      <sub>Tags: Next.js, React, Video Streaming, WebRTC</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="#">
+        <img src="./assets/projects/streaming-project.jpeg"
+             alt="Streaming Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Streaming Platform</b><br/>
+      <sub>Advanced live streaming solution with real-time video processing and user engagement features for content creators.</sub><br/>
+      🔗 <a href="#">Project</a>
+      <br/>
+      <sub>Tags: Live Streaming, Video Processing, Real-time</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="#">
+        <img src="./assets/projects/winwin-project.png"
+             alt="WinWin Fund Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>WinWin Fund</b><br/>
+      <sub>Mobile banking application providing financial services with secure transactions and user-friendly interface.</sub><br/>
+      🔗 <a href="#">Project</a>
+      <br/>
+      <sub>Tags: Mobile Banking, Fintech, Finance</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="#">
+        <img src="./assets/projects/torain-project.png"
+             alt="Torain Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Torain</b><br/>
+      <sub>Agricultural technology platform connecting farmers with markets and providing modern farming solutions.</sub><br/>
+      🔗 <a href="#">Project</a>
+      <br/>
+      <sub>Tags: AgriTech, Farming, Marketplace</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="#">
+        <img src="./assets/projects/getpower-project.png"
+             alt="GetPower Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>GetPower</b><br/>
+      <sub>Electricity service platform enabling users to purchase power conveniently with reliable and fast transactions.</sub><br/>
+      🔗 <a href="#">Project</a>
+      <br/>
+      <sub>Tags: Electricity, Utility Services, Payments</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="#">
+        <img src="./assets/projects/detronic-project.png"
+             alt="Detroinic Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Detroinic</b><br/>
+      <sub>Comprehensive digital solutions platform offering free usage models and innovative technology services.</sub><br/>
+      🔗 <a href="#">Project</a>
+      <br/>
+      <sub>Tags: Digital Solutions, Technology Services</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://beta.cepay.me">
+        <img src="./assets/projects/cepay-project.png"
+             alt="CEPAY - Fintech Mobile Application"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>CEPAY - Fintech Solution</b><br/>
+      <sub>Cutting-edge mobile application for digital currency exchange with blockchain integration and secure financial transactions.</sub><br/>
+      🔗 <a href="https://beta.cepay.me">Live Demo</a>
+      <br/>
+      <sub>Tags: Fintech, Blockchain, React Native</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
