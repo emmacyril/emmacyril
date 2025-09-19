@@ -396,18 +396,18 @@
 
 - Have a product to ship, scale, or de‑risk? Let’s talk. I'm passionate about **building innovative solutions**, **mentoring developers**, and **driving technical excellence**.
 
-- Email: [Contact me](mailto:eminify+github@gmail.com){:target="_blank"}
-- Portfolio: [Portfolio Website](https://emmacyril.eminify.com/){:target="_blank"}
-- Book a 15‑min intro: [Schedule a call](https://calendly.com/emmacyril/15min){:target="_blank"}
+- Email: [Contact me](mailto:eminify+github@gmail.com)
+- Portfolio: [Portfolio Website](https://emmacyril.eminify.com/)
+- Book a 15‑min intro: [Schedule a call](https://calendly.com/emmacyril/15min)
 
 ---
 
 ## 🔗 Professional Network
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/emmacyril){:target="_blank"}
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/emmacyril){:target="_blank"}
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/cyrifi){:target="_blank"}
-[![Dev.to](https://skillicons.dev/icons?i=devto)](https://dev.to/emmacyril){:target="_blank"}
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/emmacyril)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/emmacyril)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/cyrifi)
+[![Dev.to](https://skillicons.dev/icons?i=devto)](https://dev.to/emmacyril)
 
 ---
 
