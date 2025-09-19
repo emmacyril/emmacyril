@@ -36,9 +36,7 @@
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 
-<a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,express,nodejs,php,laravel,python,html,css,tailwind,dart,d3,electron,firebase,flutter&theme=light" alt="My Skills" />
-  </a>
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,express,nodejs,php,laravel,python,html,css,tailwind,dart,d3,electron,firebase,flutter&theme=light)](https://skillicons.dev)
 
 </div>
 
@@ -46,9 +44,7 @@
 
 <div align="left">
   
-  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,cloudflare,git,github,gitlab,nginx&theme=light" alt="My Skills" />
-  </a>
+  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,cloudflare,git,github,gitlab,nginx&theme=light)](https://skillicons.dev)
 
 </div>
 
@@ -56,9 +52,7 @@
 
 <div align="left">
  
- <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,redis,sqlite&theme=light" alt="My Skills" />
- </a>
+ [![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,redis,sqlite&theme=light)](https://skillicons.dev)
 
 </div>
 
@@ -66,9 +60,7 @@
 
 <div align="left">
 
-<a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-  <img src="https://skillicons.dev/icons?i=flutter,react,androidstudio,figma,linux&theme=light" alt="My Skills" />
-</a>
+[![My Skills](https://skillicons.dev/icons?i=flutter,react,androidstudio,figma,linux&theme=light)](https://skillicons.dev)
 
 </div>
 
@@ -79,7 +71,7 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="#" target="_blank" rel="noopener noreferrer">
+      <a href="https://koletmoni.com/" target="_blank" rel="noopener noreferrer">
         <img src="./assets/projects/koletmoni-project.png"
              alt="Koletmoni Project"
              style="width:100%; height:160px; object-fit:cover;"/>
@@ -92,7 +84,7 @@
       <sub>Tags: Web Development, Digital Solutions</sub>
     </td>
     <td align="center" width="33%">
-      <a href="#" target="_blank" rel="noopener noreferrer">
+      <a href="https://instant-learn-web-app.vercel.app/" target="_blank" rel="noopener noreferrer">
         <img src="./assets/projects/instant-learn-project.png"
              alt="InstantLearn Project"
              style="width:100%; height:160px; object-fit:cover;"/>
@@ -120,7 +112,7 @@
   </tr>
   <tr>
     <td align="center" width="33%">
-      <a href="https://jobhunteer.vercel.app" target="_blank" rel="noopener noreferrer">
+      <a href="https://jobhunteer.vercel.app/" target="_blank" rel="noopener noreferrer">
         <img src="./assets/projects/junteer-project.png"
              alt="JobHunter Project"
              style="width:100%; height:160px; object-fit:cover;"/>
@@ -133,7 +125,7 @@
       <sub>Tags: AI, Career Development, ATS</sub>
     </td>
     <td align="center" width="33%">
-      <a href="#" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.knightsbridgeoasis.com" target="_blank" rel="noopener noreferrer">
         <img src="./assets/projects/knightsbridgeoasis-project.png"
              alt="Knightsbridge Oasis Project"
              style="width:100%; height:160px; object-fit:cover;"/>
@@ -146,7 +138,7 @@
       <sub>Tags: Luxury Services, Web Application</sub>
     </td>
     <td align="center" width="33%">
-      <a href="#" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.rakcompanyltd.com/" target="_blank" rel="noopener noreferrer">
         <img src="./assets/projects/rakcompanyltd-project.png"
              alt="RAK Company Ltd Project"
              style="width:100%; height:160px; object-fit:cover;"/>
@@ -351,7 +343,7 @@
       <sub>Tags: Mobile Banking, Fintech, Finance</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://beta.cepay.me" target="_blank" rel="noopener noreferrer">
+      <a href="https://cepay-api-ext.vercel.app/" target="_blank" rel="noopener noreferrer">
         <img src="./assets/projects/cepay-project.jpg"
              alt="CEPAY - Fintech Mobile Application"
              style="width:100%; height:160px; object-fit:cover;"/>
@@ -404,18 +396,18 @@
 
 - Have a product to ship, scale, or de‑risk? Let’s talk. I'm passionate about **building innovative solutions**, **mentoring developers**, and **driving technical excellence**.
 
-- Email: <a href="mailto:eminify+github@gmail.com" target="_blank" rel="noopener noreferrer">Contact me</a>
-- Portfolio: <a href="https://emmacyril.eminify.com/" target="_blank" rel="noopener noreferrer">Portfolio Website</a>
-- Book a 15‑min intro: <a href="https://calendly.com/emmacyril/15min" target="_blank" rel="noopener noreferrer">Schedule a call</a>
+- Email: [Contact me](mailto:eminify+github@gmail.com){:target="_blank"}
+- Portfolio: [Portfolio Website](https://emmacyril.eminify.com/){:target="_blank"}
+- Book a 15‑min intro: [Schedule a call](https://calendly.com/emmacyril/15min){:target="_blank"}
 
 ---
 
 ## 🔗 Professional Network
 
-<a href="https://linkedin.com/in/emmacyril" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-<a href="https://github.com/emmacyril" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
-<a href="https://twitter.com/cyrifi" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
-<a href="https://dev.to/emmacyril" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" /></a>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/emmacyril){:target="_blank"}
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/emmacyril){:target="_blank"}
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/cyrifi){:target="_blank"}
+[![Dev.to](https://skillicons.dev/icons?i=devto)](https://dev.to/emmacyril){:target="_blank"}
 
 ---
 
