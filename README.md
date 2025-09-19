@@ -78,7 +78,7 @@
       </a>
       <br/>
       <b>Koletmoni</b><br/>
-      <sub>Fintech app revolutionizing payments through memorable phrases like "SchoolFees2024" instead of complex account numbers. Features bill payments, QR transfers, and financial services for Nigeria's 60% unbanked population.</sub><br/>
+      <sub>Fintech app revolutionizing payments through memorable phrases like "SchoolFees2024" instead of complex account numbers. Features bill payments, QR transfers, and financial services.</sub><br/>
       🔗 <a href="https://koletmoni.com/" target="_blank" rel="noopener noreferrer">Project</a>
       <br/>
       <sub>Tags: Web Development, Digital Solutions</sub>
@@ -222,21 +222,6 @@ Designed for LoveWorld Nation community focusing on creativity and seamless brow
       <sub>Tags: Blockchain, Web3, Decentralized</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://smoothube.vercel.app" target="_blank" rel="noopener noreferrer">
-        <img src="./assets/projects/smootube-project.jpeg"
-             alt="Smoothube - Video Streaming Platform"
-             style="width:100%; height:160px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>Smoothube - Video Streaming</b><br/>
-      <sub>Music streaming platform titled "Lyriks" focused on music discovery and playback. Provides music streaming with lyrical content integration.</sub><br/>
-      🔗 <a href="https://smoothube.vercel.app" target="_blank" rel="noopener noreferrer">Live Demo</a>
-      <br/>
-      <sub>Tags: Next.js, React, Video Streaming, WebRTC</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
       <a href="https://reachoutworld.vercel.app/" target="_blank" rel="noopener noreferrer">
         <img src="./assets/projects/reachoutworld.png"
              alt="ReachOut World"
@@ -249,6 +234,8 @@ Designed for LoveWorld Nation community focusing on creativity and seamless brow
       <br/>
       <sub>Tags: Community, Social Impact, Web Application</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="https://bhmusicplayer.vercel.app/" target="_blank" rel="noopener noreferrer">
         <img src="./assets/projects/bhmusicplayer.png"
@@ -276,8 +263,7 @@ Designed for LoveWorld Nation community focusing on creativity and seamless brow
       <sub>Tags: AI, PDF, Chat, Next.js</sub>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="33%">
+  <td align="center" width="33%">
       <a href="#" target="_blank" rel="noopener noreferrer">
         <img src="./assets/projects/torain-project.jpg"
              alt="Torain Project"
@@ -290,6 +276,7 @@ Designed for LoveWorld Nation community focusing on creativity and seamless brow
       <br/>
       <sub>Tags: AgriTech, Farming, Marketplace</sub>
     </td>
+  <tr>
     <td align="center" width="33%">
       <a href="#" target="_blank" rel="noopener noreferrer">
         <img src="./assets/projects/getpower-project.jpg"
@@ -316,8 +303,6 @@ Designed for LoveWorld Nation community focusing on creativity and seamless brow
       <br/>
       <sub>Tags: Digital Solutions, Technology Services</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="#" target="_blank" rel="noopener noreferrer">
         <img src="./assets/projects/streaming-project.jpeg"
@@ -331,6 +316,8 @@ Designed for LoveWorld Nation community focusing on creativity and seamless brow
       <br/>
       <sub>Tags: Live Streaming, Video Processing, Real-time</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="#" target="_blank" rel="noopener noreferrer">
         <img src="./assets/projects/winwin-project.png"
@@ -357,8 +344,6 @@ Designed for LoveWorld Nation community focusing on creativity and seamless brow
       <br/>
       <sub>Tags: Fintech, Blockchain, React Native</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="https://car-rent-seven.vercel.app" target="_blank" rel="noopener noreferrer">
         <img src="./assets/projects/car-rent-project.jpeg"
