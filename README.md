@@ -10,6 +10,14 @@
 
 > **Innovative Senior Full Stack Engineer** with **12+ years** of expertise in designing, developing, and optimizing enterprise-grade software solutions. Proven track record of **leading technical teams**, **driving digital transformation**, and delivering **high-impact systems** that scale to millions of users.
 
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Statistics](./assets/gitstats.png)
+
+---
+
 ### 💼 Key Achievements
 
 - 🔧 **40% improvement** in system scalability through microservices architecture
@@ -378,14 +386,6 @@
 - **🥇 Staff of the Year 2022** - Departmental Excellence Award
 - **📈 Innovation Leadership Award** - Digital Transformation Excellence
 - **👨‍💻 Technical Excellence Award** - Full Stack Development Innovation
-
----
-
-## 📊 GitHub Statistics
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=emmacyril&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
-</div>
 
 ---
 
