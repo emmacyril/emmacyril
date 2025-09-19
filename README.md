@@ -224,6 +224,8 @@
       <br/>
       <sub>Tags: Next.js, React, Video Streaming, WebRTC</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="#">
         <img src="./assets/projects/streaming-project.jpeg"
