@@ -25,13 +25,11 @@
 ### **Core Technologies**
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="border:2px solid #999; border-radius:100%;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="border:2px solid #999; border-radius:100%;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="border:2px solid #999; border-radius:100%;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40" style="border:2px solid #999; border-radius:100%;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="border:2px solid #999; border-radius:100%;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" style="border:2px solid #999; border-radius:100%;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="border:2px solid #999; border-radius:100%;">
+<!-- Skill icons provided by skill-icons. Full icon list and names:
+     https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
+
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,supabase,python,nodejs,php,flutter,figma,docker,git,github,terraform&theme=light)](https://skillicons.dev)
+
 </div>
 
 ### **Cloud & DevOps**
