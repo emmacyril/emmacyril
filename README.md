@@ -97,6 +97,21 @@
       <sub>Tags: EdTech, E-learning, Interactive Platform</sub>
     </td>
     <td align="center" width="33%">
+      <a href="https://qubsurf.vercel.app/">
+        <img src="./assets/projects/qubsurf.png"
+             alt="Qub-Surf Project"
+             style="width:100%; height:160px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Qub-Surf</b><br/>
+      <sub>Modern cloud cost and performance insights with intuitive dashboards and actionable recommendations.</sub><br/>
+      🔗 <a href="https://qubsurf.vercel.app/">Live Demo</a>
+      <br/>
+      <sub>Tags: Cloud, FinOps, Analytics, Dashboards</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
       <a href="https://jobhunteer.vercel.app">
         <img src="./assets/projects/junteer-project.png"
              alt="JobHunter Project"
@@ -109,8 +124,6 @@
       <br/>
       <sub>Tags: AI, Career Development, ATS</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="#">
         <img src="./assets/projects/knightsbridgeoasis-project.png"
@@ -379,9 +392,7 @@
 
 ## 🤝 Let's Connect
 
-- Have a product to ship, scale, or de‑risk? Let’s talk.
-
-I'm passionate about **building innovative solutions**, **mentoring developers**, and **driving technical excellence**.
+- Have a product to ship, scale, or de‑risk? Let’s talk. I'm passionate about **building innovative solutions**, **mentoring developers**, and **driving technical excellence**.
 
 - Email: [Contact me](mailto:eminify+github@gmail.com)
 - Portfolio: [Portfolio Website](https://emmacyril.eminify.com/)
@@ -399,8 +410,5 @@ I'm passionate about **building innovative solutions**, **mentoring developers**
 ---
 
 <div align="left">
-  <i>💡 "Turning complex challenges into elegant, scalable solutions is not just my job—it's my passion."</i>
-  <br><br>
-  <strong>📧 eminify+github@gmail.com</strong> | 
-  <strong>🌐 [emmacyril.eminify.com](https://emmacyril.eminify.com/)</strong>
+  <i>💡 "To me, every challenge is a canvas. The more complex the problem, the more exciting the opportunity to create something truly transformative. My passion is turning that complexity into solutions that are not only scalable and reliable, but also elegant, intuitive, and built to inspire confidence."</i>
 </div>
