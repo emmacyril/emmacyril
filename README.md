@@ -12,12 +12,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Statistics](./assets/gitstats.png)
-
----
-
 ### 💼 Key Achievements
 
 - 🔧 **40% improvement** in system scalability through microservices architecture
@@ -25,6 +19,12 @@
 - 💰 **150% increase** in online sales through e-commerce platform optimization
 - 🛡️ **75% fraud reduction** with blockchain-based supply chain solutions
 - 👥 **Led and mentored a team of developers**, boosting team productivity by **30%**
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Statistics](./assets/gitstats.png)
 
 ---
 
