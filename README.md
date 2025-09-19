@@ -150,6 +150,8 @@
       <br/>
       <sub>Tags: Corporate, Business Solutions</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="https://admin.afripact.com">
         <img src="./assets/projects/afripact-project.png"
@@ -163,8 +165,6 @@
       <br/>
       <sub>Tags: Education, Data Analytics, Management</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="https://airbnbclone-lime-two.vercel.app">
         <img src="./assets/projects/airbnb-clone-project.jpeg"
