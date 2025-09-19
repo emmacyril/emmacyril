@@ -28,7 +28,7 @@
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,express,nodejs,php,laravel,python,html,css,tailwind&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,express,nodejs,php,laravel,python,html,css,tailwind,dart,d3,electron,firebase,flutter&theme=light)](https://skillicons.dev)
 
 </div>
 
@@ -36,7 +36,7 @@
 
 <div align="left">
   
-  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,digitalocean,git,github,gitlab&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,cloudflare,git,github,gitlab,nginx&theme=light)](https://skillicons.dev)
 
 </div>
 
@@ -52,7 +52,7 @@
 
 <div align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,react,expo,androidstudio,figma,blockchain,linux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,react,androidstudio,figma,linux&theme=light)](https://skillicons.dev)
 
 </div>
 
