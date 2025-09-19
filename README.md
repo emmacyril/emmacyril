@@ -28,35 +28,32 @@
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,supabase,python,nodejs,php,flutter,figma,docker,git,github,terraform&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,express,nodejs,php,laravel,python,html,css,tailwind&theme=light)](https://skillicons.dev)
 
 </div>
 
 ### **Cloud & DevOps**
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" style="border:2px solid #999; border-radius:100%;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" style="border:2px solid #999; border-radius:100%;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" style="border:2px solid #999; border-radius:100%;">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40" style="border:2px solid #999; border-radius:100%;">
+  
+  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,digitalocean,git,github,gitlab&theme=light)](https://skillicons.dev)
+
 </div>
 
 ### **Databases & Infrastructure**
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="border:2px solid #999; border-radius:100%;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="border:2px solid #999; border-radius:100%;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="border:2px solid #999; border-radius:100%;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" style="border:2px solid #999; border-radius:100%;">
+ 
+ [![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,redis,sqlite&theme=light)](https://skillicons.dev)
+
 </div>
 
 ### **Mobile & Emerging Tech**
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Native" width="40" height="40" style="border:2px solid #999; border-radius:100%;">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" style="border:2px solid #999; border-radius:100%;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="border:2px solid #999; border-radius:100%;">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="border:2px solid #999; border-radius:100%;">
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,react,expo,androidstudio,figma,blockchain,linux&theme=light)](https://skillicons.dev)
+
 </div>
 
 ---
