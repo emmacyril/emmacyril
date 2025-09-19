@@ -335,6 +335,32 @@
   </tr>
   <tr>
     <td align="center" width="33%">
+      <a href="#">
+        <img src="./assets/projects/streaming-project.jpeg"
+             alt="Streaming Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Streaming Platform</b><br/>
+      <sub>Advanced live streaming solution with real-time video processing and user engagement features for content creators.</sub><br/>
+      🔗 <a href="#">Project</a>
+      <br/>
+      <sub>Tags: Live Streaming, Video Processing, Real-time</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="#">
+        <img src="./assets/projects/winwin-project.png"
+             alt="WinWin Fund Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>WinWin Fund</b><br/>
+      <sub>Mobile banking application providing financial services with secure transactions and user-friendly interface.</sub><br/>
+      🔗 <a href="#">Project</a>
+      <br/>
+      <sub>Tags: Mobile Banking, Fintech, Finance</sub>
+    </td>
+    <td align="center" width="33%">
       <a href="https://beta.cepay.me">
         <img src="./assets/projects/cepay-project.jpg"
              alt="CEPAY - Fintech Mobile Application"
