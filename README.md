@@ -360,23 +360,23 @@
 
 ---
 
-## 📚 Education & Certifications
+## 🧩 How I Can Help
 
-### **Professional Development**
+- Full‑stack Product Development — From Figma to production (Next.js, Node, React Native, AWS).
+- Fractional CTO / Tech Leadership — Roadmaps, architecture, build vs. buy, hiring, coaching.
+- Performance & Cost Optimization — Profiling, caching, edge/CDN, infra right‑sizing, DB tuning.
+- AI & Data Integrations — LLMs, RAG, analytics pipelines, event-driven architectures.
+- Web3/Fintech — Wallets, payments, KYC, compliance-friendly flows.
 
-- **Full-stack Software Engineering** - JSM Masterclass Experience (2023)
-- **Level 8 Diploma (Ph.D/DBA)** - Business Administration, Qualifi Ltd (2021)
-- **Programming for Everybody (Python)** - University of Michigan
-- **Creative Programming for Digital Media & Mobile Apps** - University of London
-- **Startup Engineering** - Stanford University
+## 🤝 Let's Connect
 
-### **Technical Certifications**
+- Have a product to ship, scale, or de‑risk? Let’s talk.
 
-- **AWS Certified Solutions Architect**
-- **Docker Certified Associate**
-- **Kubernetes Application Developer**
-- **MongoDB Certified Developer**
-- **Professional Scrum Master (PSM)**
+I'm passionate about **building innovative solutions**, **mentoring developers**, and **driving technical excellence**.
+
+- Email: eminify+github@gmail.com
+- Portfolio: https://emmacyril.eminify.com/
+- Book a 15‑min intro: https://calendly.com/YOUR_HANDLE/intro
 
 ---
 
@@ -402,16 +402,6 @@
 [<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/medium.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/medium.svg?color=000&height=40'><img alt='Medium' src='https://api.iconify.design/simple-icons/medium.svg?color=000&height=40' height='40'></picture>](https://dev.to/emmacyril)
 
 </div>
-
----
-
-## 🤝 Let's Connect
-
-I'm passionate about **building innovative solutions**, **mentoring developers**, and **driving technical excellence**.
-
-**Current Focus:** Cloud-native architectures, AI/ML integration, Web3 technologies, and scalable SaaS platforms.
-
-**Open to:** Technical leadership roles, consulting opportunities, and collaborative projects that challenge the status quo.
 
 ---
 
