@@ -262,7 +262,6 @@ Designed for LoveWorld Nation community focusing on creativity and seamless brow
       <br/>
       <sub>Tags: AI, PDF, Chat, Next.js</sub>
     </td>
-  </tr>
   <td align="center" width="33%">
       <a href="#" target="_blank" rel="noopener noreferrer">
         <img src="./assets/projects/torain-project.jpg"
@@ -276,6 +275,7 @@ Designed for LoveWorld Nation community focusing on creativity and seamless brow
       <br/>
       <sub>Tags: AgriTech, Farming, Marketplace</sub>
     </td>
+  </tr>
   <tr>
     <td align="center" width="33%">
       <a href="#" target="_blank" rel="noopener noreferrer">
