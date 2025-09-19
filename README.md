@@ -360,6 +360,15 @@
 
 ---
 
+## 🏆 Awards & Recognition
+
+- **🏆 Web/Mobile Developer of the Year 2023** - Presidential Award (Mid-Level)
+- **🥇 Staff of the Year 2022** - Departmental Excellence Award
+- **📈 Innovation Leadership Award** - Digital Transformation Excellence
+- **👨‍💻 Technical Excellence Award** - Full Stack Development Innovation
+
+---
+
 ## 🧩 How I Can Help
 
 - Full‑stack Product Development — From Figma to production (Next.js, Node, React Native, AWS).
@@ -374,34 +383,18 @@
 
 I'm passionate about **building innovative solutions**, **mentoring developers**, and **driving technical excellence**.
 
-- Email: eminify+github@gmail.com
-- Portfolio: https://emmacyril.eminify.com/
-- Book a 15‑min intro: https://calendly.com/YOUR_HANDLE/intro
-
----
-
-## 🏆 Awards & Recognition
-
-- **🏆 Web/Mobile Developer of the Year 2023** - Presidential Award (Mid-Level)
-- **🥇 Staff of the Year 2022** - Departmental Excellence Award
-- **📈 Innovation Leadership Award** - Digital Transformation Excellence
-- **👨‍💻 Technical Excellence Award** - Full Stack Development Innovation
+- Email: [Contact me](mailto:eminify+github@gmail.com)
+- Portfolio: [Portfolio Website](https://emmacyril.eminify.com/)
+- Book a 15‑min intro: [Schedule a call](https://calendly.com/emmacyril/15min)
 
 ---
 
 ## 🔗 Professional Network
 
-<div align="left">
-  
-[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/linkedin.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/linkedin.svg?color=0077b5&height=40'><img alt='LinkedIn' src='https://api.iconify.design/simple-icons/linkedin.svg?color=0077b5&height=40' height='40'></picture>](https://linkedin.com/in/emmacyril)
-&nbsp;
-[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/github.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/github.svg?color=333&height=40'><img alt='GitHub' src='https://api.iconify.design/simple-icons/github.svg?color=333&height=40' height='40'></picture>](https://github.com/emmacyril)
-&nbsp;
-[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/twitter.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/twitter.svg?color=1da1f2&height=40'><img alt='Twitter' src='https://api.iconify.design/simple-icons/twitter.svg?color=1da1f2&height=40' height='40'></picture>](https://twitter.com/cyrifi)
-&nbsp;
-[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/medium.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/medium.svg?color=000&height=40'><img alt='Medium' src='https://api.iconify.design/simple-icons/medium.svg?color=000&height=40' height='40'></picture>](https://dev.to/emmacyril)
-
-</div>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/emmacyril)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/emmacyril)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/cyrifi)
+[![Dev.to](https://skillicons.dev/icons?i=devto)](https://dev.to/emmacyril)
 
 ---
 
