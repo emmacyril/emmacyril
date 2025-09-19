@@ -64,7 +64,7 @@
   <tr>
     <td align="center" width="33%">
       <a href="#">
-        <img src="./assets/projects/koletmoni-project.jpg"
+        <img src="./assets/projects/koletmoni-project.png"
              alt="Koletmoni Project"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
@@ -186,6 +186,32 @@
   </tr>
   <tr>
     <td align="center" width="33%">
+      <a href="https://qub-cloudify.vercel.app/">
+        <img src="./assets/projects/qubcloudify.png"
+             alt="Qub Cloudify - Cloud Management Platform"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Qub Cloudify</b><br/>
+      <sub>Modern cloud management platform built with Next.js, offering seamless cloud resource management and deployment solutions.</sub><br/>
+      🔗 <a href="https://qub-cloudify.vercel.app/">Live Demo</a>
+      <br/>
+      <sub>Tags: Next.js, Cloud, Web Application</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://cloudaxwebsite.vercel.app/">
+        <img src="./assets/projects/cloudax.png"
+             alt="Cloudax - Blockchain Ecosystem"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Cloudax - Blockchain Ecosystem</b><br/>
+      <sub>Decentralized and scalable ecosystem powering the next generation of innovative web3 products and services.</sub><br/>
+      🔗 <a href="https://cloudaxwebsite.vercel.app/">Live Demo</a>
+      <br/>
+      <sub>Tags: Blockchain, Web3, Decentralized</sub>
+    </td>
+    <td align="center" width="33%">
       <a href="https://smoothube.vercel.app">
         <img src="./assets/projects/smootube-project.jpeg"
              alt="Smoothube - Video Streaming Platform"
@@ -227,8 +253,49 @@
   </tr>
   <tr>
     <td align="center" width="33%">
+      <a href="https://reachoutworld.vercel.app/">
+        <img src="./assets/projects/reachoutworld.png"
+             alt="ReachOut World"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>ReachOut World</b><br/>
+      <sub>A platform dedicated to spreading the Rhapsody of Reality globally, connecting communities and sharing inspirational content.</sub><br/>
+      🔗 <a href="https://reachoutworld.vercel.app/">Live Demo</a>
+      <br/>
+      <sub>Tags: Community, Social Impact, Web Application</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://bhmusicplayer.vercel.app/">
+        <img src="./assets/projects/bhmusicplayer.png"
+             alt="BH Music Player"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>BH Music Player</b><br/>
+      <sub>Modern music streaming platform with a clean, responsive interface for discovering and playing music online.</sub><br/>
+      🔗 <a href="https://bhmusicplayer.vercel.app/">Live Demo</a>
+      <br/>
+      <sub>Tags: Music, Streaming, React, Web App</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://chat-with-pdf-challenge-five.vercel.app/">
+        <img src="./assets/projects/chatwithpdf-ai.png"
+             alt="Chat with PDF AI"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Chat with PDF AI</b><br/>
+      <sub>AI-powered application that allows users to interact with PDF documents through natural language conversations.</sub><br/>
+      🔗 <a href="https://chat-with-pdf-challenge-five.vercel.app/">Live Demo</a>
+      <br/>
+      <sub>Tags: AI, PDF, Chat, Next.js</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
       <a href="#">
-        <img src="./assets/projects/torain-project.png"
+        <img src="./assets/projects/torain-project.jpg"
              alt="Torain Project"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
@@ -241,7 +308,7 @@
     </td>
     <td align="center" width="33%">
       <a href="#">
-        <img src="./assets/projects/getpower-project.png"
+        <img src="./assets/projects/getpower-project.jpg"
              alt="GetPower Project"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
@@ -254,7 +321,7 @@
     </td>
     <td align="center" width="33%">
       <a href="#">
-        <img src="./assets/projects/detronic-project.png"
+        <img src="./assets/projects/detronic-project.jpg"
              alt="Detroinic Project"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
@@ -269,7 +336,7 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://beta.cepay.me">
-        <img src="./assets/projects/cepay-project.png"
+        <img src="./assets/projects/cepay-project.jpg"
              alt="CEPAY - Fintech Mobile Application"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
