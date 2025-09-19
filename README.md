@@ -79,7 +79,7 @@
       <br/>
       <b>Koletmoni</b><br/>
       <sub>A comprehensive digital platform designed to streamline operations and enhance user experience through innovative technology solutions.</sub><br/>
-      🔗 <a href="#" target="_blank" rel="noopener noreferrer">Project</a>
+      🔗 <a href="#" target="_blank" rel="noopener noreferrer">Coming Soon</a>
       <br/>
       <sub>Tags: Web Development, Digital Solutions</sub>
     </td>
@@ -92,7 +92,7 @@
       <br/>
       <b>InstantLearn</b><br/>
       <sub>An educational platform revolutionizing learning with instant access to courses and interactive content for modern students.</sub><br/>
-      🔗 <a href="#" target="_blank" rel="noopener noreferrer">Project</a>
+      🔗 <a href="#" target="_blank" rel="noopener noreferrer">Coming Soon</a>
       <br/>
       <sub>Tags: EdTech, E-learning, Interactive Platform</sub>
     </td>
@@ -105,7 +105,7 @@
       <br/>
       <b>Qub-Surf</b><br/>
       <sub>Modern cloud cost and performance insights with intuitive dashboards and actionable recommendations.</sub><br/>
-      🔗 <a href="https://qubsurf.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
+      🔗 <a href="https://instant-learn-web-app.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
       <br/>
       <sub>Tags: Cloud, FinOps, Analytics, Dashboards</sub>
     </td>
@@ -120,7 +120,7 @@
       <br/>
       <b>JobHunter</b><br/>
       <sub>AI-powered career development platform helping job seekers optimize resumes and find opportunities with intelligent matching.</sub><br/>
-      🔗 <a href="https://jobhunteer.vercel.app" target="_blank" rel="noopener noreferrer">Live Demo</a>
+      🔗 <a href="https://jobhunteer.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
       <br/>
       <sub>Tags: AI, Career Development, ATS</sub>
     </td>
@@ -133,7 +133,7 @@
       <br/>
       <b>Knightsbridge Oasis</b><br/>
       <sub>A premium digital platform offering luxury services and experiences with elegant design and seamless user interface.</sub><br/>
-      🔗 <a href="#" target="_blank" rel="noopener noreferrer">Project</a>
+      🔗 <a href="#" target="_blank" rel="noopener noreferrer">Coming Soon</a>
       <br/>
       <sub>Tags: Luxury Services, Web Application</sub>
     </td>
@@ -146,7 +146,7 @@
       <br/>
       <b>RAK Company Ltd</b><br/>
       <sub>Corporate website showcasing business solutions with professional design and comprehensive service offerings.</sub><br/>
-      🔗 <a href="#" target="_blank" rel="noopener noreferrer">Project</a>
+      🔗 <a href="#" target="_blank" rel="noopener noreferrer">Coming Soon</a>
       <br/>
       <sub>Tags: Corporate, Business Solutions</sub>
     </td>
@@ -284,7 +284,7 @@
       <br/>
       <b>Torain</b><br/>
       <sub>Agricultural technology platform connecting farmers with markets and providing modern farming solutions.</sub><br/>
-      🔗 <a href="#" target="_blank" rel="noopener noreferrer">Project</a>
+      🔗 <a href="#" target="_blank" rel="noopener noreferrer">Coming Soon</a>
       <br/>
       <sub>Tags: AgriTech, Farming, Marketplace</sub>
     </td>
@@ -297,7 +297,7 @@
       <br/>
       <b>GetPower</b><br/>
       <sub>Electricity service platform enabling users to purchase power conveniently with reliable and fast transactions.</sub><br/>
-      🔗 <a href="#" target="_blank" rel="noopener noreferrer">Project</a>
+      🔗 <a href="#" target="_blank" rel="noopener noreferrer">Coming Soon</a>
       <br/>
       <sub>Tags: Electricity, Utility Services, Payments</sub>
     </td>
@@ -310,7 +310,7 @@
       <br/>
       <b>Detroinic</b><br/>
       <sub>Comprehensive digital solutions platform offering free usage models and innovative technology services.</sub><br/>
-      🔗 <a href="#" target="_blank" rel="noopener noreferrer">Project</a>
+      🔗 <a href="#" target="_blank" rel="noopener noreferrer">Coming Soon</a>
       <br/>
       <sub>Tags: Digital Solutions, Technology Services</sub>
     </td>
@@ -325,7 +325,7 @@
       <br/>
       <b>Streaming Platform</b><br/>
       <sub>Advanced live streaming solution with real-time video processing and user engagement features for content creators.</sub><br/>
-      🔗 <a href="#" target="_blank" rel="noopener noreferrer">Project</a>
+      🔗 <a href="#" target="_blank" rel="noopener noreferrer">Coming Soon</a>
       <br/>
       <sub>Tags: Live Streaming, Video Processing, Real-time</sub>
     </td>
@@ -338,7 +338,7 @@
       <br/>
       <b>WinWin Fund</b><br/>
       <sub>Mobile banking application providing financial services with secure transactions and user-friendly interface.</sub><br/>
-      🔗 <a href="#" target="_blank" rel="noopener noreferrer">Project</a>
+      🔗 <a href="#" target="_blank" rel="noopener noreferrer">Coming Soon</a>
       <br/>
       <sub>Tags: Mobile Banking, Fintech, Finance</sub>
     </td>
@@ -351,7 +351,7 @@
       <br/>
       <b>CEPAY - Fintech Solution</b><br/>
       <sub>Cutting-edge mobile application for digital currency exchange with blockchain integration and secure financial transactions.</sub><br/>
-      🔗 <a href="https://beta.cepay.me" target="_blank" rel="noopener noreferrer">Live Demo</a>
+      🔗 <a href="https://cepay-api-ext.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
       <br/>
       <sub>Tags: Fintech, Blockchain, React Native</sub>
     </td>
