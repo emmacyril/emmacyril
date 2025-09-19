@@ -78,7 +78,7 @@
       </a>
       <br/>
       <b>Koletmoni</b><br/>
-      <sub>A comprehensive digital platform designed to streamline operations and enhance user experience through innovative technology solutions.</sub><br/>
+      <sub>Fintech app revolutionizing payments through memorable phrases like "SchoolFees2024" instead of complex account numbers. Features bill payments, QR transfers, and financial services for Nigeria's 60% unbanked population.</sub><br/>
       🔗 <a href="https://koletmoni.com/" target="_blank" rel="noopener noreferrer">Project</a>
       <br/>
       <sub>Tags: Web Development, Digital Solutions</sub>
@@ -91,7 +91,7 @@
       </a>
       <br/>
       <b>InstantLearn</b><br/>
-      <sub>An educational platform revolutionizing learning with instant access to courses and interactive content for modern students.</sub><br/>
+      <sub>AI-powered learning platform for instant knowledge acquisition. Educational web app focused on rapid learning capabilities.</sub><br/>
       🔗 <a href="https://instant-learn-web-app.vercel.app/" target="_blank" rel="noopener noreferrer">Project</a>
       <br/>
       <sub>Tags: EdTech, E-learning, Interactive Platform</sub>
@@ -104,7 +104,9 @@
       </a>
       <br/>
       <b>Qub-Surf</b><br/>
-      <sub>Modern cloud cost and performance insights with intuitive dashboards and actionable recommendations.</sub><br/>
+      <sub>Modern web browser with vertical tab sidebar and golden aesthetic design.
+Built on Chromium with privacy dashboard, workspaces, and cross-platform support.
+Designed for LoveWorld Nation community focusing on creativity and seamless browsing.</sub><br/>
       🔗 <a href="https://qubsurf.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
       <br/>
       <sub>Tags: Cloud, FinOps, Analytics, Dashboards</sub>
@@ -119,7 +121,7 @@
       </a>
       <br/>
       <b>JobHunter</b><br/>
-      <sub>AI-powered career development platform helping job seekers optimize resumes and find opportunities with intelligent matching.</sub><br/>
+      <sub>Job application automation platform streamlining the job hunting process. Automates various aspects of job searching and applications.</sub><br/>
       🔗 <a href="https://jobhunteer.vercel.app" target="_blank" rel="noopener noreferrer">Live Demo</a>
       <br/>
       <sub>Tags: AI, Career Development, ATS</sub>
@@ -132,7 +134,7 @@
       </a>
       <br/>
       <b>Knightsbridge Oasis</b><br/>
-      <sub>A premium digital platform offering luxury services and experiences with elegant design and seamless user interface.</sub><br/>
+      <sub>Multifaceted business solutions company website. Showcases various corporate services and business solutions.</sub><br/>
       🔗 <a href="https://www.knightsbridgeoasis.com" target="_blank" rel="noopener noreferrer">Project</a>
       <br/>
       <sub>Tags: Luxury Services, Web Application</sub>
@@ -145,7 +147,7 @@
       </a>
       <br/>
       <b>RAK Company Ltd</b><br/>
-      <sub>Corporate website showcasing business solutions with professional design and comprehensive service offerings.</sub><br/>
+      <sub>Multi-sector company offering general contracting, mining, agriculture, real estate, and hospitality management. Delivers quality construction projects, sustainable farming, and comprehensive property management solutions.</sub><br/>
       🔗 <a href="https://www.rakcompanyltd.com/" target="_blank" rel="noopener noreferrer">Project</a>
       <br/>
       <sub>Tags: Corporate, Business Solutions</sub>
@@ -160,7 +162,7 @@
       </a>
       <br/>
       <b>Afripact</b><br/>
-      <sub>Revolutionizing education with data-driven insights and streamlined case management for educational institutions.</sub><br/>
+      <sub> Incident reporting system for educational institutions. Provides comprehensive tools for managing and tracking incident reports in academic environments.</sub><br/>
       🔗 <a href="https://admin.afripact.com" target="_blank" rel="noopener noreferrer">Live Demo</a>
       <br/>
       <sub>Tags: Education, Data Analytics, Management</sub>
@@ -186,7 +188,7 @@
       </a>
       <br/>
       <b>MangoChat - Blockchain Chat</b><br/>
-      <sub>Secure blockchain-based messaging platform ensuring transparent and tamper-proof communication with modern UI/UX.</sub><br/>
+      <sub> Metaverse communication platform for virtual interaction with friends and colleagues. Features daily community updates and social connectivity tools in virtual environments.</sub><br/>
       🔗 <a href="https://meta-verse-challenge.vercel.app" target="_blank" rel="noopener noreferrer">Live Demo</a>
       <br/>
       <sub>Tags: Blockchain, Web3, Security, Chat</sub>
@@ -227,7 +229,7 @@
       </a>
       <br/>
       <b>Smoothube - Video Streaming</b><br/>
-      <sub>Modern YouTube-inspired platform with Next.js, React, and Tailwind CSS featuring adaptive streaming and real-time communication.</sub><br/>
+      <sub>Music streaming platform titled "Lyriks" focused on music discovery and playback. Provides music streaming with lyrical content integration.</sub><br/>
       🔗 <a href="https://smoothube.vercel.app" target="_blank" rel="noopener noreferrer">Live Demo</a>
       <br/>
       <sub>Tags: Next.js, React, Video Streaming, WebRTC</sub>
