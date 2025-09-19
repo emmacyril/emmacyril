@@ -66,7 +66,7 @@
       <a href="#">
         <img src="./assets/projects/koletmoni-project.png"
              alt="Koletmoni Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:100%; height:160px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Koletmoni</b><br/>
@@ -79,7 +79,7 @@
       <a href="#">
         <img src="./assets/projects/instant-learn-project.png"
              alt="InstantLearn Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:100%; height:160px; object-fit:cover;"/>
       </a>
       <br/>
       <b>InstantLearn</b><br/>
@@ -92,7 +92,7 @@
       <a href="https://jobhunteer.vercel.app">
         <img src="./assets/projects/junteer-project.png"
              alt="JobHunter Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:100%; height:160px; object-fit:cover;"/>
       </a>
       <br/>
       <b>JobHunter</b><br/>
@@ -107,7 +107,7 @@
       <a href="#">
         <img src="./assets/projects/knightsbridgeoasis-project.jpg"
              alt="Knightsbridge Oasis Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:100%; height:160px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Knightsbridge Oasis</b><br/>
@@ -120,7 +120,7 @@
       <a href="#">
         <img src="./assets/projects/rakcompanyltd-project.jpg"
              alt="RAK Company Ltd Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:100%; height:160px; object-fit:cover;"/>
       </a>
       <br/>
       <b>RAK Company Ltd</b><br/>
@@ -133,7 +133,7 @@
       <a href="https://admin.afripact.com">
         <img src="./assets/projects/afripact-project.png"
              alt="Afripact Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:100%; height:160px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Afripact</b><br/>
@@ -148,7 +148,7 @@
       <a href="https://airbnbclone-lime-two.vercel.app">
         <img src="./assets/projects/airbnb-clone-project.jpeg"
              alt="Airbnb Clone Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:100%; height:160px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Airbnb Clone</b><br/>
@@ -161,7 +161,7 @@
       <a href="https://meta-verse-challenge.vercel.app">
         <img src="./assets/projects/blockchain-chat-project.jpeg"
              alt="MangoChat - Blockchain Chat App"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:100%; height:160px; object-fit:cover;"/>
       </a>
       <br/>
       <b>MangoChat - Blockchain Chat</b><br/>
@@ -174,7 +174,7 @@
       <a href="https://car-rent-seven.vercel.app">
         <img src="./assets/projects/car-rent-project.jpeg"
              alt="Car Rental Application"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:100%; height:160px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Car Rental Application</b><br/>
@@ -189,7 +189,7 @@
       <a href="https://qub-cloudify.vercel.app/">
         <img src="./assets/projects/qubcloudify.png"
              alt="Qub Cloudify - Cloud Management Platform"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:100%; height:160px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Qub Cloudify</b><br/>
@@ -202,7 +202,7 @@
       <a href="https://cloudaxwebsite.vercel.app/">
         <img src="./assets/projects/cloudax.png"
              alt="Cloudax - Blockchain Ecosystem"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:100%; height:160px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Cloudax - Blockchain Ecosystem</b><br/>
@@ -215,7 +215,7 @@
       <a href="https://smoothube.vercel.app">
         <img src="./assets/projects/smootube-project.jpeg"
              alt="Smoothube - Video Streaming Platform"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:100%; height:160px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Smoothube - Video Streaming</b><br/>
@@ -230,7 +230,7 @@
       <a href="https://reachoutworld.vercel.app/">
         <img src="./assets/projects/reachoutworld.png"
              alt="ReachOut World"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:100%; height:160px; object-fit:cover;"/>
       </a>
       <br/>
       <b>ReachOut World</b><br/>
@@ -243,7 +243,7 @@
       <a href="https://bhmusicplayer.vercel.app/">
         <img src="./assets/projects/bhmusicplayer.png"
              alt="BH Music Player"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:100%; height:160px; object-fit:cover;"/>
       </a>
       <br/>
       <b>BH Music Player</b><br/>
@@ -256,7 +256,7 @@
       <a href="https://chat-with-pdf-challenge-five.vercel.app/">
         <img src="./assets/projects/chatwithpdf-ai.png"
              alt="Chat with PDF AI"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:100%; height:160px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Chat with PDF AI</b><br/>
@@ -271,7 +271,7 @@
       <a href="#">
         <img src="./assets/projects/torain-project.jpg"
              alt="Torain Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:100%; height:160px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Torain</b><br/>
@@ -284,7 +284,7 @@
       <a href="#">
         <img src="./assets/projects/getpower-project.jpg"
              alt="GetPower Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:100%; height:160px; object-fit:cover;"/>
       </a>
       <br/>
       <b>GetPower</b><br/>
@@ -297,7 +297,7 @@
       <a href="#">
         <img src="./assets/projects/detronic-project.jpg"
              alt="Detroinic Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:100%; height:160px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Detroinic</b><br/>
@@ -312,7 +312,7 @@
       <a href="#">
         <img src="./assets/projects/streaming-project.jpeg"
              alt="Streaming Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:100%; height:160px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Streaming Platform</b><br/>
@@ -325,7 +325,7 @@
       <a href="#">
         <img src="./assets/projects/winwin-project.png"
              alt="WinWin Fund Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:100%; height:160px; object-fit:cover;"/>
       </a>
       <br/>
       <b>WinWin Fund</b><br/>
@@ -338,7 +338,7 @@
       <a href="https://beta.cepay.me">
         <img src="./assets/projects/cepay-project.jpg"
              alt="CEPAY - Fintech Mobile Application"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:100%; height:160px; object-fit:cover;"/>
       </a>
       <br/>
       <b>CEPAY - Fintech Solution</b><br/>
