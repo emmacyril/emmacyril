@@ -24,7 +24,11 @@
 
 ## 📊 GitHub Statistics
 
-![GitHub Statistics](./assets/gitstats.png)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emmacyril&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emmacyril&theme=default&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emmacyril&layout=compact&theme=default&hide_border=false)
 
 ---
 
