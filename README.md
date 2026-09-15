@@ -2,11 +2,11 @@
 
 # Cyril Emmanuel
 
-**Senior Full-Stack / Product Engineer · Payments & Integrations · Hands-on Technical Leadership**
+**Software Engineer · Founder, Eminify · Technical Leader**
 
 I build the backends, interfaces and integrations that turn a business process into a usable product. My work spans payment workflows, identity and document systems, operational software, and AI-assisted applications.
 
-Based in **Nigeria**. Founder of **[Eminify](https://www.eminify.com/)**. Open to relevant remote roles and relocation opportunities.
+Based in **Nigeria**. Founder of **[Eminify](https://www.eminify.com/)**. Open to relevant remote roles, relocation opportunities and technical partnerships.
 
 [Portfolio](https://emmacyril.eminify.com/) · [LinkedIn](https://www.linkedin.com/in/emmacyril/) · [Email](mailto:eminify+github@gmail.com)
 
@@ -73,9 +73,11 @@ I use AI-assisted development alongside source review and hands-on implementatio
 | Mobile | Flutter/Dart, React Native |
 | Data and delivery | PostgreSQL, MySQL, MongoDB, Redis, Docker, GitHub Actions |
 
-## Let's discuss the work
+## Connect around useful work
 
 I am interested in **Senior Full-Stack / Product Engineer**, **Payments & Integrations Engineer**, **Technical Lead**, and **Solutions Architect** opportunities with AI, SaaS and fintech teams. I also consider **Fractional CTO / Hands-on Head of Engineering** engagements with a clear scope and delivery mandate.
+
+I welcome collaboration with engineers, founders and technical communities: a focused product partnership, an open-source contribution, practical engineering writing, or a discussion that helps people understand a difficult implementation problem.
 
 A useful first conversation is a walkthrough of a real system: the problem, the architecture, the tradeoffs, and what I implemented.
 
