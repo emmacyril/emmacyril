@@ -2,9 +2,11 @@
 
 # Cyril Emmanuel
 
-**Software Engineer · Founder, Eminify · Technical Leader**
+**Senior Product Engineer & Technical Lead · Payments, Identity & Operational Systems · Founder, Eminify**
 
-I build the backends, interfaces and integrations that turn a business process into a usable product. My work spans payment workflows, identity and document systems, operational software, and AI-assisted applications.
+I build the backends, interfaces and integrations that turn a business process into a usable product. My focus is the complete journey from a request through verification, payment or processing to a correct result: duplicate requests, permissions, ledger integrity, provider failures, approvals and handover.
+
+My background in institutional ICT informs how I approach operations; building Eminify keeps the commercial problem in view. I also apply AI to specific workflows and developer tools.
 
 Based in **Nigeria**. Founder of **[Eminify](https://www.eminify.com/)**. Open to relevant remote roles, relocation opportunities and technical partnerships.
 
