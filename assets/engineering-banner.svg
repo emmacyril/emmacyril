@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Cyril Emmanuel — engineering systems that do useful work</title>
+  <desc id="desc">A dark engineering masthead with a simple flow from interface to API and data. Product engineering, payments and integrations.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1928"/>
+      <stop offset="1" stop-color="#060d17"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#23364b" stroke-width=".6"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="18" fill="url(#background)"/>
+  <rect x="700" width="500" height="320" rx="18" fill="url(#grid)" opacity=".5"/>
+  <path d="M40 34H1160" stroke="#294057" stroke-width="1"/>
+  <circle cx="51" cy="57" r="4" fill="#41dbc3"/>
+  <text x="67" y="62" fill="#94a8bd" font-size="12" letter-spacing="2.2" font-family="'SFMono-Regular',Consolas,monospace">BUILD / CONNECT / DELIVER</text>
+  <text x="48" y="138" fill="#f0f5fc" font-size="55" font-weight="700" letter-spacing="-1.7" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">Cyril Emmanuel</text>
+  <text x="50" y="181" fill="#bdd0e4" font-size="22" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">Engineering systems that do useful work.</text>
+  <rect x="50" y="217" width="38" height="3" rx="1.5" fill="#41dbc3"/>
+  <text x="50" y="257" fill="#94a8bd" font-size="13" letter-spacing="1.2" font-family="'SFMono-Regular',Consolas,monospace">PRODUCT ENGINEERING · PAYMENTS · INTEGRATIONS</text>
+  <g font-family="'SFMono-Regular',Consolas,monospace" font-size="13" text-anchor="middle">
+    <path d="M814 164H844M966 164H996" fill="none" stroke="#41dbc3" stroke-width="2"/>
+    <path d="M840 160L844 164L840 168M992 160L996 164L992 168" fill="none" stroke="#41dbc3" stroke-width="2"/>
+    <rect x="704" y="132" width="110" height="64" rx="9" fill="#102236" stroke="#355471"/>
+    <rect x="844" y="132" width="122" height="64" rx="9" fill="#112d34" stroke="#41dbc3"/>
+    <rect x="996" y="132" width="110" height="64" rx="9" fill="#102236" stroke="#355471"/>
+    <text x="759" y="169" fill="#d4e3f2">INTERFACE</text>
+    <text x="905" y="169" fill="#78ead6">API</text>
+    <text x="1051" y="169" fill="#d4e3f2">DATA</text>
+    <path d="M1051 205V228H759V205" fill="none" stroke="#38546f" stroke-width="1.5" stroke-dasharray="5 5"/>
+    <text x="905" y="256" fill="#839bb4" font-size="11" letter-spacing="1.3">OBSERVE · REFINE · SHIP</text>
+  </g>
+</svg>
