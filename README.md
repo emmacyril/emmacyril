@@ -6,7 +6,7 @@
 
 <p align="center"><strong>Senior product engineer · Technical lead · Founder, Eminify</strong></p>
 
-<p align="center">I engineer the systems behind the experience.<br />Payments, identity, operational platforms and developer tools.<br />Based in Nigeria, working with international teams.</p>
+<p align="center">I engineer the systems behind the experience.<br />Payments, identity, operational platforms and developer tools.<br />Building with teams across Nigeria, the United States, India and Kenya.</p>
 
 <p align="center"><a href="https://emmacyril.eminify.com/">Portfolio ↗</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/emmacyril/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://www.eminify.com/">Eminify</a> &nbsp;·&nbsp; <a href="mailto:emmacyril@gmail.com">Email</a></p>
 
@@ -22,10 +22,18 @@
 
 ### Selected work
 
+- **[Eminly](https://eminly-web.vercel.app)** — white-label money, identity and AI-assistant platform for banks, lenders, hospitals and enterprises. Flagship, now in pilot.
+- **[OrraBot](https://orrabot-site.vercel.app)** · **[EminifyBot](https://www.eminifybot.com)** — an AI team in one chat app, with a walled-off team for every company; built on [OpenMausBot](https://github.com/milind-soni/OpenMausBot).
+- **[RORA · Rhapsody Ask](https://rhapsodyask.com)** — multilingual answers grounded only in source texts, with citations, live voice and an API.
+- **[RewaPay](https://www.rewapay.co)** — wallet, transfers and bills across web, mobile and USSD on a double-entry ledger.
+- **[AddressDox & PlotDox](https://addressdox.co.za)** — digital proof of residence and land administration for South African municipalities.
+- **[SubmitNote](https://www.submitnote.com)** — medical-certificate verification for South African doctors and employers.
+- **[KoletMoni](https://www.koletmoni.com/)** — phrase-based payments, QR cash and bills on Flutter and Node.js.
 - **[EMIWARP](https://github.com/emmacyril/EMIWARP)** — AI terminal integrations; an overlay built on [Warp](https://github.com/warpdotdev/warp).
-- **[KoletMoni](https://www.koletmoni.com/)** — Flutter clients, payment flows and backend integrations.
-- **[RatelLine](https://ratel-line-frontend.vercel.app/)** — AI-assisted case workflows across web, mobile and API; in development.
-- **[Qub-Surf](https://github.com/emmacyril/qubsurf)** — Desktop browser engineering on Electron/Chromium; public docs, private source.
+
+Also shipped: [ReachOut World Map](https://www.rormap.com) · [RatelLine](https://ratel-line-frontend.vercel.app/) · [Emizeer](https://emizeer.vercel.app) · [Oakyard Properties](https://www.oakyardproperties.com) · [Gimbiya Mariama](https://gimbiyamariama.com) · [Qub-Surf](https://github.com/emmacyril/qubsurf)
+
+<sub>Full project library: <a href="https://www.eminify.com/#portfolio">eminify.com/#portfolio</a></sub>
 
 ### How I think about systems
 
